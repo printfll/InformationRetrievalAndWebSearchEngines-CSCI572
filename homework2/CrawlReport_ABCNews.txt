@@ -1,0 +1,37 @@
+Name: Lu Liu
+USC ID: 4276663969
+News site crawled: http://abcnews.go.com/
+Fetch Statistics
+================
+# fetches attempted: 19995	
+# fetches succeeded:19211 
+# fetches aborted:623
+# fetches failed:161
+
+Outgoing URLs
+==============
+# Total URLs extracted:533507
+# unique URLs extracted:245634
+# unique URLs within News Site:166962
+# unique URLs outside News Site:78672
+
+Status Codes:
+=============
+200 OK:19211
+301 Moved Permanently:396
+302 Moved Temporarily: 227
+400 Bad Request: 5
+404 Not Found: 156
+
+File Sizes:
+===========
+< 1KB:	22
+1KB ~ <10KB:	5
+10KB ~ <100KB:	16906
+100KB ~ <1MB:	1085
+>= 1MB:	0
+
+Content Types:
+==============
+text/html:	17967
+html/plain: 771
